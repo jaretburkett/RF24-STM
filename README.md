@@ -1,4 +1,6 @@
-# Arduino driver for nRF24L01 2.4GHz Wireless Transceiver
+# STM32duino driver for nRF24L01 2.4GHz Wireless Transceiver
+
+This is a modified version of the maniacbug RF24 library that can be found here https://github.com/maniacbug/RF24 . It has been modified to work with the stm32f103 on the Arduino platform. The project for this can be found here. https://github.com/rogerclarkmelbourne/Arduino_STM32
 
 Design Goals: This library is designed to be...
 
